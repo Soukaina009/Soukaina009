@@ -8,9 +8,9 @@ Master's student in AI for the Digital Economy and Management, mixing machine le
 
 ### About Me
 
-I'm a 2nd-year Master's student in **Artificial Intelligence for the Digital Economy and Management (IAENG)** at **FSJES Tanger**. I build AI projects that sit at the crossroads of machine learning, business systems, and economics.
+I'm a 2nd-year Master's student in **Artificial Intelligence for the Digital Economy and Management (IAENG)** at **FSJES Tangier**. I build AI projects that sit at the crossroads of machine learning, business systems, and economics.
 
-I'm currently looking for a **4-month PFE internship**, open to AI applied to economics, finance, or business — from data science and FinTech to digital transformation and automation. If your team works on any of these, let's talk.
+I'm currently looking for a **PFE internship**, open to AI applied to economics, finance, or business — from data science and FinTech to digital transformation and automation. If your team works on any of these, let's talk.
 
 When I'm not training a model, I'm probably arguing with a dataset that refuses to cooperate.
 
